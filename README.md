@@ -1,0 +1,1 @@
+# Seatwork-3-Adapter-Pattern
